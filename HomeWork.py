@@ -59,7 +59,7 @@ class BotHandler:
 # randid = random.randint(1, 100000000000)
 # '1308190534:AAEujx7L21ozfTnNOYS10D4Mc1USArcVvRk'
 
-token ='1308190534:AAEujx7L21ozfTnNOYS10D4Mc1USArcVvRk'#Token of your bot
+token =''#Token of your bot
 homework_bot = BotHandler(token) #Your bot's name
 
 
